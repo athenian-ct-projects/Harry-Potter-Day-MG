@@ -1,9 +1,9 @@
-# Assignment Description
+# Harry Potter Day MG '23
 
-written by 
+written by MG '23
 
 edit with appropriate link:
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-MG)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-MG)
 
-Add info about game here
+* Harry Potter Hangman game
